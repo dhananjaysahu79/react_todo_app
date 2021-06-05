@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React Todo App using styled components and react hooks.
+
+Screenshot....
+
+![](screenshot/ss1.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
