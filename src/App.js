@@ -47,7 +47,7 @@ function App() {
           <Column>
            <Wrapper>
             <Heading size = {'50px'}>ToDo-App</Heading>
-            <Input onChange = {handleChange} value = {input}></Input>
+            <Input onChange = {handleChange} value = {input} placeholder= {'Write here..'}></Input>
             <Button onClick = {handleSubmit}>ADD Todo</Button>
            </Wrapper>
           </Column>

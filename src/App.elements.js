@@ -67,7 +67,8 @@ export const Input = styled.textarea`
     font-size: 20px;
 
     &::placeholder {
-        color: #fff;
+      color: #fff;
+      font-size: 17px;
     }
 `;
 
